@@ -9,35 +9,35 @@ Módulo: ⭐ Introdução (NÃO PULE!)
 	OK - Aula: Tutorial HOTMART 🗺️
 	OK - Aula: Tutorial DISCORD 🗺️
 	OK - Aula: Tutorial NOTION 🗺️
-	Aula: Tutorial SNA 🗺️
+	OK - Aula: Tutorial SNA 🗺️
 Módulo: ⭐ Planejando a Jornada (Pilar do Planejamento)
-	Aula: O Pilar MAIS IMPORTANTE ⚠️
-	Aula: Porque Focar no Desenvolvimento Web 🖥️
-	Aula: O que é Desenvolvimento Frontend e Backend? 🤔
-	Aula: Por que começar pelo Frontend? 🥇
-	Aula: Ter um objetivo/meta - MARCOS 🎯
-	Aula: Conclusão do Planejamento 🏹
+	OK - Aula: O Pilar MAIS IMPORTANTE ⚠️
+	OK - Aula: Porque Focar no Desenvolvimento Web 🖥️
+	OK - Aula: O que é Desenvolvimento Frontend e Backend? 🤔
+	OK - Aula: Por que começar pelo Frontend? 🥇
+	OK - Aula: Ter um objetivo/meta - MARCOS 🎯
+	OK - Aula: Conclusão do Planejamento 🏹
 Módulo: ⭐ Usando o Terminal
-	Aula: Introdução ao Pilar da Prática 📝
-	Aula: Por que o terminal é importante? ❗
-	Aula: Introdução ao terminal 🚩
-	Aula: Atalhos do Terminal 🗺️
-	Aula: Mais 3 comandos para o seu arsenal 🗡️ pwd, clear, ls
-	Aula: Criando pastas com o comando mkdir 📁
-	Aula: Navegando entre pastas 📁
-	Aula: Removendo pastas com o comando rm 📁
-	Aula: Quiz Terminal
+	OK - Aula: Introdução ao Pilar da Prática 📝
+	OK - Aula: Por que o terminal é importante? ❗
+	OK - Aula: Introdução ao terminal 🚩
+	OK - Aula: Atalhos do Terminal 🗺️
+	OK - Aula: Mais 3 comandos para o seu arsenal 🗡️ pwd, clear, ls
+	OK - Aula: Criando pastas com o comando mkdir 📁
+	OK - Aula: Navegando entre pastas 📁
+	OK - Aula: Removendo pastas com o comando rm 📁
+	OK - Aula: Quiz Terminal
 Módulo: ⭐ Conhecendo o VS Code
-	Aula: Introdução ao VS Code 🚩
-	Aula: Baixando e configurando o VS Code ⚙️
-	Aula: Principais funcionalidades do VS Code 🌟
-	Aula: Codando rápido: IntelliSense e Documentação ⏳
-	Aula: Conhecendo todo o poder das extensões do VS Code ⚡
+	OK - Aula: Introdução ao VS Code 🚩
+	OK - Aula: Baixando e configurando o VS Code ⚙️
+	OK - Aula: Principais funcionalidades do VS Code 🌟
+	OK - Aula: Codando rápido: IntelliSense e Documentação ⏳
+	OK - Aula: Conhecendo todo o poder das extensões do VS Code ⚡
 Módulo: ⭐ HTML5 básico
-	Aula: O começo da sua jornada 🚩
-	Aula: Introdução ao HTML5 🚀
-	Aula: O que são as tags HTML ❓
-	Aula: Criação da primeira página HTML 1️⃣
+	OK - Aula: O começo da sua jornada 🚩
+	OK - Aula: Introdução ao HTML5 🚀
+	OK - Aula: O que são as tags HTML ❓
+	OK - Aula: Criação da primeira página HTML 1️⃣
 	Aula: Meta tags - configurando informações da sua página 🏷️
 	Aula: Títulos e parágrafos 🅰️
 	Aula: Formatação de texto 📰
