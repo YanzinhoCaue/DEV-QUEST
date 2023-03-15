@@ -1,0 +1,769 @@
+Módulo: ⭐ Introdução (NÃO PULE!)
+	OK - Aula: Recados importantes aos iniciantes! 🚀
+	OK - Aula: Bem-vindo(a) ao DevQuest! 😀
+	OK - Aula: Introdução aos 3 Pilares 🚩
+	OK - Aula: O Pilar do Planejamento 🎯
+	OK - Aula: O Pilar da Prática 📝
+	OK - Aula: O Pilar do Marketing Pessoal 🚀
+	OK - Aula: Convocação da Guilda DevQuest 🛡️
+	OK - Aula: Tutorial HOTMART 🗺️
+	OK - Aula: Tutorial DISCORD 🗺️
+	OK - Aula: Tutorial NOTION 🗺️
+	Aula: Tutorial SNA 🗺️
+Módulo: ⭐ Planejando a Jornada (Pilar do Planejamento)
+	Aula: O Pilar MAIS IMPORTANTE ⚠️
+	Aula: Porque Focar no Desenvolvimento Web 🖥️
+	Aula: O que é Desenvolvimento Frontend e Backend? 🤔
+	Aula: Por que começar pelo Frontend? 🥇
+	Aula: Ter um objetivo/meta - MARCOS 🎯
+	Aula: Conclusão do Planejamento 🏹
+Módulo: ⭐ Usando o Terminal
+	Aula: Introdução ao Pilar da Prática 📝
+	Aula: Por que o terminal é importante? ❗
+	Aula: Introdução ao terminal 🚩
+	Aula: Atalhos do Terminal 🗺️
+	Aula: Mais 3 comandos para o seu arsenal 🗡️ pwd, clear, ls
+	Aula: Criando pastas com o comando mkdir 📁
+	Aula: Navegando entre pastas 📁
+	Aula: Removendo pastas com o comando rm 📁
+	Aula: Quiz Terminal
+Módulo: ⭐ Conhecendo o VS Code
+	Aula: Introdução ao VS Code 🚩
+	Aula: Baixando e configurando o VS Code ⚙️
+	Aula: Principais funcionalidades do VS Code 🌟
+	Aula: Codando rápido: IntelliSense e Documentação ⏳
+	Aula: Conhecendo todo o poder das extensões do VS Code ⚡
+Módulo: ⭐ HTML5 básico
+	Aula: O começo da sua jornada 🚩
+	Aula: Introdução ao HTML5 🚀
+	Aula: O que são as tags HTML ❓
+	Aula: Criação da primeira página HTML 1️⃣
+	Aula: Meta tags - configurando informações da sua página 🏷️
+	Aula: Títulos e parágrafos 🅰️
+	Aula: Formatação de texto 📰
+	Aula: Comentários 💬
+	Aula: Links externos 🔗
+	Aula: Links internos 🔗
+	Aula: Imagens 📷
+	Aula: Listas ✔️
+	Aula: Tabelas 📋
+	Aula: Quiz HTML5 básico
+Módulo: ⭐ CSS3 básico
+	Aula: Introdução ao CSS 🚩
+	Aula: CSS inline 👀
+	Aula: CSS interno 🎉
+	Aula: CSS externo 🎈
+	Aula: Inspecionando elementos com Chrome dev tools 🔎
+	Aula: Cores em CSS 🍭
+	Aula: Espaçamento externo com margin ❗
+	Aula: Espaçamento interno com padding ❗
+	Aula: Adicionando bordas aos elementos com border ❗
+	Aula: Modelos de caixa 📦
+	Aula: Tipos de caixa 📦
+	Aula: Ids ou identificadores 🆔
+	Aula: Classes: adicionando estilos em múltiplos elementos ❗
+	Aula: Div e span 🚧
+	Aula: Unidades de medida relativa 📏
+	Aula: Unidades de medida absoluta 📐
+	Aula: Box-sizing: Border Box 📦
+	Aula: Exercício lista de compras
+	Aula: Solução exercício lista de compras
+	Aula: Exercício imagem com link
+	Aula: Solução exercício imagem com link
+	Aula: Exercício parágrafos coloridos
+	Aula: Solução exercício parágrafos coloridos
+	Aula: Quiz CSS3 básico
+Módulo: ⭐ Git / GitHub
+	Aula: Objetivos do módulo 🎯
+	Aula: Versionamento de código 📜
+	Aula: A história do Git 📜
+	Aula: O que é GitHub? ❓
+	Aula: GitHub: visão geral da plataforma 👁️
+	Aula: Configurando nosso usuário com git ⚙️
+	Aula: Criando conta e primeiro repositório no GitHub 🗄️
+	Aula: Estados dos arquivos 📄
+	Aula: Estados dos arquivos na prática  ❗
+	Aula: Criação do token pessoal e enviando os arquivos para o GitHub 🔑
+	Aula: Git no VS Code ✨
+	Aula: Hospedando seus repositórios de graça com GitHub Pages ❤️
+	Aula: O que é e como criar um README 🚀
+	Aula: Como personalizar o seu perfil do GitHub! 🔥
+	Aula: Git Ignore ❌
+	Aula: Git Clone e Git Pull 👥
+	Aula: Quiz Git/GitHub
+Módulo: ⚔️ QUEST HTML + CSS Básicos
+	Aula: Desafio tabela estilizada 🔮
+Módulo: ⭐ Clean code básico
+	Aula: Introdução ao Clean Code 🧹
+	Aula: A regra do escoteiro 👮
+	Aula: Nomes são importantes ❗
+	Aula: Desenvolvimento gradual e refatoração 🔺
+	Aula: Quiz Clean Code
+Módulo: ⭐ HTML5 Intermediário
+	Aula: Anatomia do Input e Input Text  📝
+	Aula: Inputs Number, Password e Submit 🔢
+	Aula: Inputs Checkbox e Radio 🔲 🔘
+	Aula: Select 🔥
+	Aula: Textarea 📑
+	Aula: Button e Input type Button 🖱️
+	Aula: Formulário na prática ❗
+	Aula: Tags Semânticas 🌐
+	Aula: Tags semânticas parte 2
+	Aula: Quiz HTML intermediário
+Módulo: ⭐ CSS3 Intermediário
+	Aula: Especificidade e efeito cascata 🌊
+	Aula: Estilos de textos 📝
+	Aula: Propriedades das fontes ⛲
+	Aula: Usando fontes do Google Fonts ⛲
+	Aula: Usando fontes que não existem no Google Fonts 😎
+	Aula: Estilizando links 🔗
+	Aula: Estilizando listas 🎨
+	Aula: Estilizando backgrounds 🤳
+	Aula: Posicionamento com display 🧩
+	Aula: Position Static, Relative e Absolute 🧩
+	Aula: Position fixed 🧩
+	Aula: Introdução à responsividade 🚩
+	Aula: Media queries 📐
+	Aula: Float 🎈
+	Aula: Centralizando elementos 📐
+	Aula: Adicionando e customizando ícones com o Font Awesome ✨
+	Aula: Quiz CSS3 intermediário
+Módulo: ⭐ Projeto Landing Page
+	Aula: Criando a estrutura inicial do projeto 🚩
+	Aula: Criando o menu 🚀
+	Aula: Criando o painel 🤳
+	Aula: Criando seção de Quem somos e onde estamos 🌎
+	Aula: Criando seção de ladrilhos ✔
+	Aula: Criando seção de contato 📞
+	Aula: Criando o rodapé 🦶
+	Aula: Deixando o layout responsivo - parte 1 📱
+	Aula: Deixando o layout responsivo - parte 2 📱
+	Aula: Deixando o layout responsivo - parte 3 📱
+Módulo: ⭐ HTML Avançado
+	Aula: Imagens responsivas usando a tag picture 🤳
+	Aula: Criando um ícone de favicon ⭐
+	Aula: Criando emojis 😁
+	Aula: Adicionando áudio nas suas páginas 🔈
+	Aula: Adicionado vídeos as páginas com a tag video - parte 1 🎬
+	Aula: Adicionado vídeos as páginas com a tag video - parte 2 🎬
+	Aula: Iframes 🧩
+	Aula: Quiz HTML avançado
+Módulo: ⭐ CSS avançado parte 1
+	Aula: Pseudo-classes ⭐
+	Aula: Pseudo-elementos ⭐
+	Aula: Seletores ⭐
+	Aula: Aplicando transformações com transform ✨
+	Aula: Trabalhando com variáveis ⭐
+Módulo: ⭐ CSS avançado parte 2 - Flexbox
+	Aula: Introdução flexbox 🚩
+	Aula: Flex container - Justify Content 📐
+	Aula: Flex container - Align Itens 📐
+	Aula: Flex container - Align Content 📐
+	Aula: Flex item - Grow 📐
+	Aula: Flex item - Basis 📐
+	Aula: Flex item - Shrink 📐
+	Aula: Flex item - Flex 📐
+	Aula: Flex item - Order 📐
+	Aula: Flex item - Align self 📐
+	Aula: Flex no mundo real - parte 1 📐
+	Aula: Flex no mundo real - parte 2 📐
+Módulo: Exercícios CSS avançado - Flexbox
+	Aula: Dicas de como usar o Figma
+	Aula: Exercício menu com flexbox 📃
+	Aula:  Resolução exercício menu com flexbox ✅
+	Aula: Exercício lista de imagens  📃
+	Aula: Resolução exercício lista de imagens  ✅
+Módulo: ⭐ CSS avançado parte 3 - Grid
+	Aula: Grid - o que é? Começando layout com grid 🚩
+	Aula: Propriedades do Grid 🧩
+	Aula:  Grid - Ocupando Espaços 🧩
+	Aula: Grid area 🧩
+	Aula: Grid template areas 🧩
+	Aula: Grid auto fill e auto fit 🧩
+Módulo: Exercícios CSS avançado - Grid
+	Aula: Exercício layout YouTube com grid 📃
+	Aula: Resolução layout YouTube com grid ✅
+Módulo: ⭐ Projeto Landing Page com Grid e Flex
+	Aula: Criando a estrutura inicial da Landing Page de Agência 🧩
+	Aula: Criando o cabeçalho da Landing Page 🧩
+	Aula: Criando o cabeçalho da Landing Page - versão mobile 📱
+	Aula: Criando o painél da Landing Page 🎴
+	Aula: Criando a seção de sobre com Grid 🎉
+	Aula: Criando a seção de serviços com Grid ⚙
+	Aula: Criando a seção de projetos com Grid 📽
+	Aula: Criando o rodapé da Landing Page 🦶
+Módulo: ⚔️ QUEST HTML + CSS Avançado
+	Aula: Desafio HTML + CSS avançado 🗡️
+Módulo: ⭐ Marketing pessoal - Currículo
+	Aula: O objetivo principal do currículo do dev iniciante
+	Aula: A escolha do template
+	Aula: Informações que precisam estar no seu currículo
+	Aula: Sugestão de estrutura de um currículo que se destaca
+	Aula: Como demonstrar experiência, mesmo sem ter trabalhado na área
+Módulo: ⚔️ Quest Currículo
+	Aula: Desafio - Crie seu currículo
+Módulo: ⭐ Marketing Pessoal - LinkedIn
+	Aula: Como se cadastrar no LinkedIn
+	Aula: Objetivo do LinkedIn
+	Aula: Estrutura básica de um perfil no LinkedIn de sucesso
+	Aula: SEJA ATIVO(A) !
+	Aula: Já tenho um perfil antigo o que fazer?
+	Aula: Melhorando suas chances com o LinkedIn premium
+	Aula: Comecei a receber propostas de emprego, e agora?
+Módulo: ⚔️ Quest LinkedIn
+	Aula: Desafio 1
+	Aula: Desafio 2
+	Aula: Desafio 3
+Módulo: ⭐ JavaScript Básico
+	Aula: Introdução ao JavaScript 🚩
+	Aula: Como surgiu o JS? 🐣
+	Aula: Porque a gente indica começar pelo JS? 🚩
+	Aula: Criando o seu primeiro arquivo JS 🚀
+	Aula: Introdução a algoritmos e lógica de programação 📈
+	Aula: Console e comentários no JS 🌟
+	Aula: Declarando variáveis ⭐
+	Aula: O que são tipos primitivos no JS? 🐲
+	Aula: Apresentando os operadores lógicos - parte 1⭐
+	Aula: Apresentando os operadores lógicos - parte 2 ⭐
+	Aula: Utilizando operadores matemáticos 📚
+	Aula: O que são e pra que servem laços de repetição? - Parte 1 ♾️
+	Aula: O que são e pra que servem laços de repetição? - Parte 2 ♾️
+	Aula: O que são e para que servem condicionais? - Parte 1 💡
+	Aula: O que são e para que servem condicionais? - Parte 2 💡
+	Aula: Funções: um dos conceitos mais importantes do javaScript 🚩
+	Aula: Exercício 1
+	Aula: Solução Exercício 1
+	Aula: Exercício 2
+	Aula: Solução Exercício 2
+	Aula: Exercício 3
+	Aula: Solução Exercício 3
+	Aula: Exercício 4
+	Aula: Solução Exercício 4
+	Aula: Exercício 5
+	Aula: Solução Exercício 5
+Módulo: ⚔️ Quest JavaScript básico
+	Aula: DESAFIO - Criando mais de uma função 🐲
+Módulo: ⭐ JavaScript Intermediário
+	Aula: Escopos no JavaScript
+	Aula: Hoisting
+	Aula: Funções anônimas
+	Aula: Arrow functions
+	Aula: Higher order functions
+	Aula: Arrays
+	Aula: Arrays multidimensionais
+	Aula: Trabalhando com arrays
+	Aula: Splice e slice
+	Aula: Objetos no JS
+	Aula: Métodos: adicionando funções a objetos
+	Aula: O que é o this no JS?
+	Aula: Diferenças entre objetos e arrays
+	Aula: Como usar objetos e arrays em conjunto
+	Aula: Introdução ao DOM e document
+	Aula: Usando o document para selecionar elementos do DOM
+	Aula: Como manipular os elementos do DOM
+	Aula: Manipulando atributos e estilos dos elementos do DOM
+	Aula: Eventos do DOM
+	Aula: Encontrando e interpretando erros no JS
+	Aula: Exercício Js Intermediário 1 📃
+	Aula: Solução Exercício 1 ✅
+	Aula: Exercício Js Intermediário 2 📃
+	Aula: Solução Exercício 2 ✅
+Módulo: ⚔️ Quest HTML + CSS + JS Intermediário
+	Aula: Desafio 3 - formulário com validação
+Módulo: ⭐ JavaScript Avançado
+	Aula: Filter
+	Aula: Map
+	Aula: Reduce
+	Aula: Template strings: Interpolando strings
+	Aula: Desestruturação de objetos e arrays
+	Aula: Operador Spread
+	Aula: Parâmetro REST
+	Aula: SetInterval e SetTimeout
+	Aula: Síncrono vs Assíncrono
+	Aula: Promises
+	Aula: Then
+	Aula: Async e Await
+	Aula: Tratando erros no JavaScript
+	Aula: O que é uma API?
+	Aula: JSON
+	Aula: Requisições com o fetch
+	Aula: Introdução ao gerenciamento de pacotes com NPM
+	Aula: Gerenciando pacotes com NPM
+	Aula: Importar e exportar módulos JavaScript
+	Aula: Export default e Export nomeado
+Módulo: ⭐ Testes automatizados  de software com Jest - Básico
+	Aula: Introdução aos testes automatizados de software
+	Aula: Quais tipos de teste existem?
+	Aula: Por que eu deveria testar meu código?
+	Aula: O que são test runners?
+	Aula: Instalando e configurando o Jest no projeto
+	Aula: Criando nosso primeiro teste automatizado com Jest
+	Aula:  Aprofundando nos testes de unidade
+	Aula: Garantindo qualidade na prática com testes automatizados
+	Aula: TDD e o conceito de Vermelho, Verde e Refatoração
+Módulo: ⭐ Projeto mundo real com Fetch e GitHub
+	Aula: Apresentando o projeto e a estrutura inicial
+	Aula: Buscando os dados do usuário pela API do GitHub
+	Aula: Buscando os repositórios do usuário pela API do GitHub
+	Aula: Refatorando o código
+	Aula: Criando objetos pro usuário e tela
+	Aula: Validações e finalizando projeto
+Módulo: ⚔️ Quest JavaScript Avançado
+	Aula: Desafio único ⚔
+Módulo: ⭐ A base do React
+	Aula: Introdução ao React.js
+	Aula: Criando um projeto de exemplo com React
+	Aula: O JSX
+	Aula: Componentes de função vs de classe
+	Aula: Criando projetos com create-react-app
+	Aula:  Trabalhando com componentes de função
+	Aula: Criando componentes de Classe
+	Aula: Props: passando propriedades para os componentes
+	Aula: Prop children
+	Aula: Propriedades default de componentes
+	Aula: Utilizando múltiplos componentes (aninhando componentes)
+	Aula: Listas no React e a prop "key"
+	Aula: Eventos no React
+Módulo: ⚔️ Quest React Base
+	Aula: Desafio 1 - Componente que colore e transforma um texto para maiúsculo (uppercase) utilizando JS
+	Aula: Desafio 2 - Mostrar mensagem com a label do botão
+Módulo: ⭐ React Avançado
+	Aula: Estado - state
+	Aula: Importância da arrow funcion no React
+	Aula: Componente Stateless vs Componente Statefull
+	Aula: Lifecycle ou clicos de vida no React
+	Aula: Ciclos de vida na prática
+	Aula: Introdução aos Hooks
+	Aula: Hook de estado - useState
+	Aula: Hook de efeito - useEffect
+	Aula: Renderização condicional
+	Aula: Formulários
+	Aula: Trabalhando com vários inputs  
+	Aula: Rotas no React
+	Aula: Criando página interna e navegação
+	Aula: Estilizando Componentes (styled components)
+Módulo: ⭐ Context API
+	Aula: Context API: O que é e o que ele resolve?
+	Aula: Criando o Contexto de Temas
+	Aula: Criando os componentes que vão usar o contexto
+	Aula: Usando estados para alterar o tema dos componentes
+Módulo: ⚔️ Quest React Avançado - Teste Técnico
+	Aula: Desafio Teste Técnico
+Módulo: ⭐ Redux
+	Aula: Introdução ao Redux
+	Aula: Como funciona o fluxo no Redux
+	Aula: Instalando e configurando o Redux
+	Aula: Criando o primeiro reducer
+	Aula:  Criando a nossa primeira action e usando o dispatch
+Módulo: ⭐ Conclusão e próximos passos
+	Aula: Conclusão e próximos passos
+Módulo: [T4] Convocações da Guilda
+	Aula: Aula inaugural do DevQuest 🚀
+Módulo: Deep Dives 🌊
+	Aula: 🌊 PARTE 1 - DEEP DIVE - Criando um portfólio f#d@
+	Aula: 🌊 PARTE 2 - DEEP DIVE - Criando um portfólio f#d@
+	Aula: 🌊 PARTE 3 - DEEP DIVE - Criando um portfólio f#d@
+	Aula: 🔨 JavaScript que você precisa saber para trabalhar com REACT
+Módulo: MAPADEV WEEK - LANDING PAGE
+	Aula: Live Secreta 1- HTML
+	Aula: Live secreta 2 - CSS
+	Aula: Live secreta 3 - JavaScript e GitHub
+Módulo: MAPADEV WEEK - POKÉDEX
+	Aula: Live Secreta 1- HTML
+	Aula: Live secreta 2 - CSS
+	Aula: Live secreta 3 - JavaScript e GitHub
+Módulo: Cafezinho com os gêmeos
+	Aula: Do 0 ao dev pleno em 3 anos com Raphael Dias
+Módulo: Workshops
+	Aula: Como criar um projeto do zero sem travar
+	Aula: Quando eu uso Divs!? Aprenda a criar um HTML que não vai dar dor de cabeça.
+Módulo: MAPADEV WEEK - MARVEL
+	Aula: LIVE SECRETA 1 - HTML A BASE DO FRONTEND
+	Aula: LIVE SECRETA 2 - ESTILIZANDO COM CSS 
+	Aula:  LIVE SECRETA 3 - A MAGIA DO JAVASCRIPT
+Módulo: 🎁 Mentoria em grupo Bônus - TURMA 6
+	Aula: MENTORIA CHAMADO À AVENTURA - Primeiros passos - TURMA 6Módulo: ⭐ Introdução (NÃO PULE!)
+	Aula: Recados importantes aos iniciantes! 🚀
+	Aula: Bem-vindo(a) ao DevQuest! 😀
+	Aula: Introdução aos 3 Pilares 🚩
+	Aula: O Pilar do Planejamento 🎯
+	Aula: O Pilar da Prática 📝
+	Aula: O Pilar do Marketing Pessoal 🚀
+	Aula: Convocação da Guilda DevQuest 🛡️
+	Aula: Tutorial HOTMART 🗺️
+	Aula: Tutorial DISCORD 🗺️
+	Aula: Tutorial NOTION 🗺️
+	Aula: Tutorial SNA 🗺️
+Módulo: ⭐ Planejando a Jornada (Pilar do Planejamento)
+	Aula: O Pilar MAIS IMPORTANTE ⚠️
+	Aula: Porque Focar no Desenvolvimento Web 🖥️
+	Aula: O que é Desenvolvimento Frontend e Backend? 🤔
+	Aula: Por que começar pelo Frontend? 🥇
+	Aula: Ter um objetivo/meta - MARCOS 🎯
+	Aula: Conclusão do Planejamento 🏹
+Módulo: ⭐ Usando o Terminal
+	Aula: Introdução ao Pilar da Prática 📝
+	Aula: Por que o terminal é importante? ❗
+	Aula: Introdução ao terminal 🚩
+	Aula: Atalhos do Terminal 🗺️
+	Aula: Mais 3 comandos para o seu arsenal 🗡️ pwd, clear, ls
+	Aula: Criando pastas com o comando mkdir 📁
+	Aula: Navegando entre pastas 📁
+	Aula: Removendo pastas com o comando rm 📁
+	Aula: Quiz Terminal
+Módulo: ⭐ Conhecendo o VS Code
+	Aula: Introdução ao VS Code 🚩
+	Aula: Baixando e configurando o VS Code ⚙️
+	Aula: Principais funcionalidades do VS Code 🌟
+	Aula: Codando rápido: IntelliSense e Documentação ⏳
+	Aula: Conhecendo todo o poder das extensões do VS Code ⚡
+Módulo: ⭐ HTML5 básico
+	Aula: O começo da sua jornada 🚩
+	Aula: Introdução ao HTML5 🚀
+	Aula: O que são as tags HTML ❓
+	Aula: Criação da primeira página HTML 1️⃣
+	Aula: Meta tags - configurando informações da sua página 🏷️
+	Aula: Títulos e parágrafos 🅰️
+	Aula: Formatação de texto 📰
+	Aula: Comentários 💬
+	Aula: Links externos 🔗
+	Aula: Links internos 🔗
+	Aula: Imagens 📷
+	Aula: Listas ✔️
+	Aula: Tabelas 📋
+	Aula: Quiz HTML5 básico
+Módulo: ⭐ CSS3 básico
+	Aula: Introdução ao CSS 🚩
+	Aula: CSS inline 👀
+	Aula: CSS interno 🎉
+	Aula: CSS externo 🎈
+	Aula: Inspecionando elementos com Chrome dev tools 🔎
+	Aula: Cores em CSS 🍭
+	Aula: Espaçamento externo com margin ❗
+	Aula: Espaçamento interno com padding ❗
+	Aula: Adicionando bordas aos elementos com border ❗
+	Aula: Modelos de caixa 📦
+	Aula: Tipos de caixa 📦
+	Aula: Ids ou identificadores 🆔
+	Aula: Classes: adicionando estilos em múltiplos elementos ❗
+	Aula: Div e span 🚧
+	Aula: Unidades de medida relativa 📏
+	Aula: Unidades de medida absoluta 📐
+	Aula: Box-sizing: Border Box 📦
+	Aula: Exercício lista de compras
+	Aula: Solução exercício lista de compras
+	Aula: Exercício imagem com link
+	Aula: Solução exercício imagem com link
+	Aula: Exercício parágrafos coloridos
+	Aula: Solução exercício parágrafos coloridos
+	Aula: Quiz CSS3 básico
+Módulo: ⭐ Git / GitHub
+	Aula: Objetivos do módulo 🎯
+	Aula: Versionamento de código 📜
+	Aula: A história do Git 📜
+	Aula: O que é GitHub? ❓
+	Aula: GitHub: visão geral da plataforma 👁️
+	Aula: Configurando nosso usuário com git ⚙️
+	Aula: Criando conta e primeiro repositório no GitHub 🗄️
+	Aula: Estados dos arquivos 📄
+	Aula: Estados dos arquivos na prática  ❗
+	Aula: Criação do token pessoal e enviando os arquivos para o GitHub 🔑
+	Aula: Git no VS Code ✨
+	Aula: Hospedando seus repositórios de graça com GitHub Pages ❤️
+	Aula: O que é e como criar um README 🚀
+	Aula: Como personalizar o seu perfil do GitHub! 🔥
+	Aula: Git Ignore ❌
+	Aula: Git Clone e Git Pull 👥
+	Aula: Quiz Git/GitHub
+Módulo: ⚔️ QUEST HTML + CSS Básicos
+	Aula: Desafio tabela estilizada 🔮
+Módulo: ⭐ Clean code básico
+	Aula: Introdução ao Clean Code 🧹
+	Aula: A regra do escoteiro 👮
+	Aula: Nomes são importantes ❗
+	Aula: Desenvolvimento gradual e refatoração 🔺
+	Aula: Quiz Clean Code
+Módulo: ⭐ HTML5 Intermediário
+	Aula: Anatomia do Input e Input Text  📝
+	Aula: Inputs Number, Password e Submit 🔢
+	Aula: Inputs Checkbox e Radio 🔲 🔘
+	Aula: Select 🔥
+	Aula: Textarea 📑
+	Aula: Button e Input type Button 🖱️
+	Aula: Formulário na prática ❗
+	Aula: Tags Semânticas 🌐
+	Aula: Tags semânticas parte 2
+	Aula: Quiz HTML intermediário
+Módulo: ⭐ CSS3 Intermediário
+	Aula: Especificidade e efeito cascata 🌊
+	Aula: Estilos de textos 📝
+	Aula: Propriedades das fontes ⛲
+	Aula: Usando fontes do Google Fonts ⛲
+	Aula: Usando fontes que não existem no Google Fonts 😎
+	Aula: Estilizando links 🔗
+	Aula: Estilizando listas 🎨
+	Aula: Estilizando backgrounds 🤳
+	Aula: Posicionamento com display 🧩
+	Aula: Position Static, Relative e Absolute 🧩
+	Aula: Position fixed 🧩
+	Aula: Introdução à responsividade 🚩
+	Aula: Media queries 📐
+	Aula: Float 🎈
+	Aula: Centralizando elementos 📐
+	Aula: Adicionando e customizando ícones com o Font Awesome ✨
+	Aula: Quiz CSS3 intermediário
+Módulo: ⭐ Projeto Landing Page
+	Aula: Criando a estrutura inicial do projeto 🚩
+	Aula: Criando o menu 🚀
+	Aula: Criando o painel 🤳
+	Aula: Criando seção de Quem somos e onde estamos 🌎
+	Aula: Criando seção de ladrilhos ✔
+	Aula: Criando seção de contato 📞
+	Aula: Criando o rodapé 🦶
+	Aula: Deixando o layout responsivo - parte 1 📱
+	Aula: Deixando o layout responsivo - parte 2 📱
+	Aula: Deixando o layout responsivo - parte 3 📱
+Módulo: ⭐ HTML Avançado
+	Aula: Imagens responsivas usando a tag picture 🤳
+	Aula: Criando um ícone de favicon ⭐
+	Aula: Criando emojis 😁
+	Aula: Adicionando áudio nas suas páginas 🔈
+	Aula: Adicionado vídeos as páginas com a tag video - parte 1 🎬
+	Aula: Adicionado vídeos as páginas com a tag video - parte 2 🎬
+	Aula: Iframes 🧩
+	Aula: Quiz HTML avançado
+Módulo: ⭐ CSS avançado parte 1
+	Aula: Pseudo-classes ⭐
+	Aula: Pseudo-elementos ⭐
+	Aula: Seletores ⭐
+	Aula: Aplicando transformações com transform ✨
+	Aula: Trabalhando com variáveis ⭐
+Módulo: ⭐ CSS avançado parte 2 - Flexbox
+	Aula: Introdução flexbox 🚩
+	Aula: Flex container - Justify Content 📐
+	Aula: Flex container - Align Itens 📐
+	Aula: Flex container - Align Content 📐
+	Aula: Flex item - Grow 📐
+	Aula: Flex item - Basis 📐
+	Aula: Flex item - Shrink 📐
+	Aula: Flex item - Flex 📐
+	Aula: Flex item - Order 📐
+	Aula: Flex item - Align self 📐
+	Aula: Flex no mundo real - parte 1 📐
+	Aula: Flex no mundo real - parte 2 📐
+Módulo: Exercícios CSS avançado - Flexbox
+	Aula: Dicas de como usar o Figma
+	Aula: Exercício menu com flexbox 📃
+	Aula:  Resolução exercício menu com flexbox ✅
+	Aula: Exercício lista de imagens  📃
+	Aula: Resolução exercício lista de imagens  ✅
+Módulo: ⭐ CSS avançado parte 3 - Grid
+	Aula: Grid - o que é? Começando layout com grid 🚩
+	Aula: Propriedades do Grid 🧩
+	Aula: Grid - Ocupando Espaços 🧩
+	Aula: Grid area 🧩
+	Aula: Grid template areas 🧩
+	Aula: Grid auto fill e auto fit 🧩
+Módulo: Exercícios CSS avançado - Grid
+	Aula: Exercício layout YouTube com grid 📃
+	Aula: Resolução layout YouTube com grid ✅
+Módulo: ⭐ Projeto Landing Page com Grid e Flex
+	Aula: Criando a estrutura inicial da Landing Page de Agência 🧩
+	Aula: Criando o cabeçalho da Landing Page 🧩
+	Aula: Criando o cabeçalho da Landing Page - versão mobile 📱
+	Aula: Criando o painél da Landing Page 🎴
+	Aula: Criando a seção de sobre com Grid 🎉
+	Aula: Criando a seção de serviços com Grid ⚙
+	Aula: Criando a seção de projetos com Grid 📽
+	Aula: Criando o rodapé da Landing Page 🦶
+Módulo: ⚔️ QUEST HTML + CSS Avançado
+	Aula: Desafio HTML + CSS avançado 🗡️
+Módulo: ⭐ Marketing pessoal - Currículo
+	Aula: O objetivo principal do currículo do dev iniciante
+	Aula: A escolha do template
+	Aula: Informações que precisam estar no seu currículo
+	Aula: Sugestão de estrutura de um currículo que se destaca
+	Aula: Como demonstrar experiência, mesmo sem ter trabalhado na área
+Módulo: ⚔️ Quest Currículo
+	Aula: Desafio - Crie seu currículo
+Módulo: ⭐ Marketing Pessoal - LinkedIn
+	Aula: Como se cadastrar no LinkedIn
+	Aula: Objetivo do LinkedIn
+	Aula: Estrutura básica de um perfil no LinkedIn de sucesso
+	Aula: SEJA ATIVO(A) !
+	Aula: Já tenho um perfil antigo o que fazer?
+	Aula: Melhorando suas chances com o LinkedIn premium
+	Aula: Comecei a receber propostas de emprego, e agora?
+Módulo: ⚔️ Quest LinkedIn
+	Aula: Desafio 1
+	Aula: Desafio 2
+	Aula: Desafio 3
+Módulo: ⭐ JavaScript Básico
+	Aula: Introdução ao JavaScript 🚩
+	Aula: Como surgiu o JS? 🐣
+	Aula: Porque a gente indica começar pelo JS? 🚩
+	Aula: Criando o seu primeiro arquivo JS 🚀
+	Aula: Introdução a algoritmos e lógica de programação 📈
+	Aula: Console e comentários no JS 🌟
+	Aula: Declarando variáveis ⭐
+	Aula: O que são tipos primitivos no JS? 🐲
+	Aula: Apresentando os operadores lógicos - parte 1⭐
+	Aula: Apresentando os operadores lógicos - parte 2 ⭐
+	Aula: Utilizando operadores matemáticos 📚
+	Aula: O que são e pra que servem laços de repetição? - Parte 1 ♾️
+	Aula: O que são e pra que servem laços de repetição? - Parte 2 ♾️
+	Aula: O que são e para que servem condicionais? - Parte 1 💡
+	Aula: O que são e para que servem condicionais? - Parte 2 💡
+	Aula: Funções: um dos conceitos mais importantes do javaScript 🚩
+	Aula: Exercício 1
+	Aula: Solução Exercício 1
+	Aula: Exercício 2
+	Aula: Solução Exercício 2
+	Aula: Exercício 3
+	Aula: Solução Exercício 3
+	Aula: Exercício 4
+	Aula: Solução Exercício 4
+	Aula: Exercício 5
+	Aula: Solução Exercício 5
+Módulo: ⚔️ Quest JavaScript básico
+	Aula: DESAFIO - Criando mais de uma função 🐲
+Módulo: ⭐ JavaScript Intermediário
+	Aula: Escopos no JavaScript
+	Aula: Hoisting
+	Aula: Funções anônimas
+	Aula: Arrow functions
+	Aula: Higher order functions
+	Aula: Arrays
+	Aula: Arrays multidimensionais
+	Aula: Trabalhando com arrays
+	Aula: Splice e slice
+	Aula: Objetos no JS
+	Aula: Métodos: adicionando funções a objetos
+	Aula: O que é o this no JS?
+	Aula: Diferenças entre objetos e arrays
+	Aula: Como usar objetos e arrays em conjunto
+	Aula: Introdução ao DOM e document
+	Aula: Usando o document para selecionar elementos do DOM
+	Aula: Como manipular os elementos do DOM
+	Aula: Manipulando atributos e estilos dos elementos do DOM
+	Aula: Eventos do DOM
+	Aula: Encontrando e interpretando erros no JS
+	Aula: Exercício Js Intermediário 1 📃
+	Aula: Solução Exercício 1 ✅
+	Aula: Exercício Js Intermediário 2 📃
+	Aula: Solução Exercício 2 ✅
+Módulo: ⚔️ Quest HTML + CSS + JS Intermediário
+	Aula: Desafio 3 - formulário com validação
+Módulo: ⭐ JavaScript Avançado
+	Aula: Filter
+	Aula: Map
+	Aula: Reduce
+	Aula: Template strings: Interpolando strings
+	Aula: Desestruturação de objetos e arrays
+	Aula: Operador Spread
+	Aula: Parâmetro REST
+	Aula: SetInterval e SetTimeout
+	Aula: Síncrono vs Assíncrono
+	Aula: Promises
+	Aula: Then
+	Aula: Async e Await
+	Aula: Tratando erros no JavaScript
+	Aula: O que é uma API?
+	Aula: JSON
+	Aula: Requisições com o fetch
+	Aula: Introdução ao gerenciamento de pacotes com NPM
+	Aula: Gerenciando pacotes com NPM
+	Aula: Importar e exportar módulos JavaScript
+	Aula: Export default e Export nomeado
+Módulo: ⭐ Testes automatizados  de software com Jest - Básico
+	Aula: Introdução aos testes automatizados de software
+	Aula: Quais tipos de teste existem?
+	Aula: Por que eu deveria testar meu código?
+	Aula: O que são test runners?
+	Aula: Instalando e configurando o Jest no projeto
+	Aula: Criando nosso primeiro teste automatizado com Jest
+	Aula:  Aprofundando nos testes de unidade
+	Aula: Garantindo qualidade na prática com testes automatizados
+	Aula: TDD e o conceito de Vermelho, Verde e Refatoração
+Módulo: ⭐ Projeto mundo real com Fetch e GitHub
+	Aula: Apresentando o projeto e a estrutura inicial
+	Aula: Buscando os dados do usuário pela API do GitHub
+	Aula: Buscando os repositórios do usuário pela API do GitHub
+	Aula: Refatorando o código
+	Aula: Criando objetos pro usuário e tela
+	Aula: Validações e finalizando projeto
+Módulo: ⚔️ Quest JavaScript Avançado
+	Aula: Desafio único ⚔
+Módulo: ⭐ A base do React
+	Aula: Introdução ao React.js
+	Aula: Criando um projeto de exemplo com React
+	Aula: O JSX
+	Aula: Componentes de função vs de classe
+	Aula: Criando projetos com create-react-app
+	Aula:  Trabalhando com componentes de função
+	Aula: Criando componentes de Classe
+	Aula: Props: passando propriedades para os componentes
+	Aula: Prop children
+	Aula: Propriedades default de componentes
+	Aula: Utilizando múltiplos componentes (aninhando componentes)
+	Aula: Listas no React e a prop "key"
+	Aula: Eventos no React
+Módulo: ⚔️ Quest React Base
+	Aula: Desafio 1 - Componente que colore e transforma um texto para maiúsculo (uppercase) utilizando JS
+	Aula: Desafio 2 - Mostrar mensagem com a label do botão
+Módulo: ⭐ React Avançado
+	Aula: Estado - state
+	Aula: Importância da arrow funcion no React
+	Aula: Componente Stateless vs Componente Statefull
+	Aula: Lifecycle ou clicos de vida no React
+	Aula: Ciclos de vida na prática
+	Aula: Introdução aos Hooks
+	Aula: Hook de estado - useState
+	Aula: Hook de efeito - useEffect
+	Aula: Renderização condicional
+	Aula: Formulários
+	Aula: Trabalhando com vários inputs  
+	Aula: Rotas no React
+	Aula: Criando página interna e navegação
+	Aula: Estilizando Componentes (styled components)
+Módulo: ⭐ Context API
+	Aula: Context API: O que é e o que ele resolve?
+	Aula: Criando o Contexto de Temas
+	Aula: Criando os componentes que vão usar o contexto
+	Aula: Usando estados para alterar o tema dos componentes
+Módulo: ⚔️ Quest React Avançado - Teste Técnico
+	Aula: Desafio Teste Técnico
+Módulo: ⭐ Redux
+	Aula: Introdução ao Redux
+	Aula: Como funciona o fluxo no Redux
+	Aula: Instalando e configurando o Redux
+	Aula: Criando o primeiro reducer
+	Aula:  Criando a nossa primeira action e usando o dispatch
+Módulo: ⭐ Conclusão e próximos passos
+	Aula: Conclusão e próximos passos
+Módulo: [T4] Convocações da Guilda
+	Aula: Aula inaugural do DevQuest 🚀
+Módulo: Deep Dives 🌊
+	Aula: 🌊 PARTE 1 - DEEP DIVE - Criando um portfólio f#d@
+	Aula: 🌊 PARTE 2 - DEEP DIVE - Criando um portfólio f#d@
+	Aula: 🌊 PARTE 3 - DEEP DIVE - Criando um portfólio f#d@
+	Aula: 🔨 JavaScript que você precisa saber para trabalhar com REACT
+Módulo: MAPADEV WEEK - LANDING PAGE
+	Aula: Live Secreta 1- HTML
+	Aula: Live secreta 2 - CSS
+	Aula: Live secreta 3 - JavaScript e GitHub
+Módulo: MAPADEV WEEK - POKÉDEX
+	Aula: Live Secreta 1- HTML
+	Aula: Live secreta 2 - CSS
+	Aula: Live secreta 3 - JavaScript e GitHub
+Módulo: Cafezinho com os gêmeos
+	Aula: Do 0 ao dev pleno em 3 anos com Raphael Dias
+Módulo: Workshops
+	Aula: Como criar um projeto do zero sem travar
+	Aula: Quando eu uso Divs!? Aprenda a criar um HTML que não vai dar dor de cabeça.
+Módulo: MAPADEV WEEK - MARVEL
+	Aula: LIVE SECRETA 1 - HTML A BASE DO FRONTEND
+	Aula: LIVE SECRETA 2 - ESTILIZANDO COM CSS 
+	Aula:  LIVE SECRETA 3 - A MAGIA DO JAVASCRIPT
+Módulo: 🎁 Mentoria em grupo Bônus - TURMA 6
+	Aula: MENTORIA CHAMADO À AVENTURA - Primeiros passos - TURMA 6
