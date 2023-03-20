@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(9, 6, 10);
+}
+.cabecalho{
+    background-color: rgb(64, 68, 71);
+    font-family: arial;
+    color: aliceblue;
+    margin: 10px 10px 0px 10px;
+    padding: 2px;
+    width: 465px;
+    height: max-content;
+    border-radius: 5px 5px 0px 0px;
+    border: 1px solid rgb(255, 255, 255);
+    text-align: center;
+}
+.alimentos{
+    background-color: rgb(100, 101, 102);
+    font-family: arial;
+    margin: 0px 10px 0px 10px;
+    list-style-type: none;
+    padding: 10px;
+    width: 465px;
+    border-radius: 0px 0px 0px 0px;
+    border: 1px solid rgb(255, 255, 255);
+}
+.nome-valor-alimentos{
+    padding: 10px;
+    border: 1px solid rgb(255, 255, 255);
+    color: aliceblue;
+}
+p{
+    margin: 0px 10px 0px 10px;
+    background-color: rgb(100, 101, 102);
+    font-family: arial;
+    margin: 0px 10px 0px;
+    width: 465px;
+    padding: 10px;
+    font-size: 20px;
+    color: aliceblue;
+    border: 1px solid rgb(255, 255, 255);
+}

@@ -1,0 +1,25 @@
+/* margin-top: 30px;
+margin-bottom: 30px;
+margin-left: 30px;
+margin-right: 30px; */
+
+/* Forma colocando o mesmo valor no topo e laterais */
+/* margin: 30px 15px; */
+p{
+    margin: 30px 15px 30px 15px;
+    padding: 20px 9px 19px 3px;
+    background-color: aquamarine;
+    /* border-style: solid;
+    border-width: 20px;
+    border-color: red; */
+    border: 20px solid orange;
+}
+h1{
+    border-style: solid;
+    border-width: 20px;
+    /* border-top-color: green; 
+    border-bottom-color: orange;
+    border-left-color: violet;
+    border-right-color: purple; */
+    border-color: green orange violet purple;
+}
