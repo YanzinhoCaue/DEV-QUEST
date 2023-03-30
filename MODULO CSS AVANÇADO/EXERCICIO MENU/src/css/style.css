@@ -1,0 +1,58 @@
+.cabecalho{
+    display: flex;
+    padding: 30px;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.cabecalho ul li a:hover{
+    font-weight: bold;
+}
+.escrita-logo{
+    font-size: 20px;
+    font-weight: 800;
+    position: absolute;
+    margin: 45px;
+}
+.menu{
+    margin: 30px;
+    display: flex;
+}
+.menu li{
+    margin-left: 15px;
+}
+.sobre{
+    padding: 11px 6px 11px 6px;
+    background-color: #5BC241;
+    color: white;
+}
+.cadastre-se{
+    padding: 10px 21px 10px 21px;
+    background-color: #5BC241;
+    border-radius: 10px;
+    color: white;
+}
+@media (max-width: 375px){
+    .logo{
+        margin-left: 76px;
+    }
+    .escrita-logo{
+        position: relative;
+        margin: 0 auto 0 0;  
+    }
+    nav{
+        text-align: center;
+        width: 100%;
+    }
+    .menu{
+        display: block;
+        margin-top: 30px;
+    }
+    .menu li{
+        margin-left: 0;
+    }
+    .menu a{
+        padding: 20px;
+        display: block;
+    }
+}

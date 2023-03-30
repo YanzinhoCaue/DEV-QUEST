@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ul{
+    background-color: orange;
+    list-style-image: url('./imagens/icone.png');
+    list-style: square inside url('./imagens/icone.png');
+}
+ul li{
+    border: 1px solid black;
+    padding: 20px;
+}
+ol{
+    background-color: aquamarine;
+    list-style-image: url('./imagens/icone.png');
+    list-style: square inside url('./imagens/icone.png');
+}
+ol li{
+    border: 1px solid black;
+    padding: 20px;
+}

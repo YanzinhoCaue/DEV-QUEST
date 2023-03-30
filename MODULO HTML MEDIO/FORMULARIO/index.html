@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário</title>
+</head>
+<body>
+    <h1>Formulário</h1>
+    <h3>Formulário com Get</h3>
+    <form action="index.html" method="get">
+        <input type="text" name="q" id="q" value="" placeholder="Twitter">
+        <input type="submit" value="Enviar">
+    </form>
+    <h3>Formulário com Post</h3>
+    <form action="index.html" method="post">
+        <input type="text" name="q" id="q" value="" placeholder="Twitter">
+        <input type="submit" value="Enviar">
+    </form>
+    <h3>Formulário de login no Facebook</h3>
+    <form action="index.html" method="get" enctype="multipart/form-data">
+        <input type="text" name="nome" id="nome" placeholder="Nome">
+        <input type="text" name="sobrenome" id="sobrenome" placeholder="Sobrenome"><br><br>
+        <input type="text" name="celular-ou-email" id="celular-ou-email" placeholder="Celular ou E-mail"><br><br>
+        <input type="text" name="password" id="password" placeholder="Senha"><br><br>
+        <label for="dia">Data de Nascimento</label><br>
+        <select name="dia" id="dia">
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+            <option value="6">6</option>
+            <option value="7">7</option>
+            <option value="8">8</option>
+            <option value="9">9</option>
+            <option value="10">10</option>
+            <option value="11">11</option>
+            <option value="12">12</option>
+            <option value="13">13</option>
+            <option value="14">14</option>
+            <option value="15">15</option>
+            <option value="16">16</option>
+            <option value="17">17</option>
+            <option value="18">18</option>
+            <option value="19">19</option>
+            <option value="20">20</option>
+        </select>
+        <select name="mes" id="mes">
+            <option value="Jan">Jan</option>
+            <option value="Fev">Fev</option>
+            <option value="Mar">Mar</option>
+            <option value="Abr">Abr</option>
+            <option value="Mai">Mai</option>
+            <option value="Jun">Jun</option>
+            <option value="Jul">Jul</option>
+            <option value="Ago">Ago</option>
+            <option value="Set">Set</option>
+            <option value="Out">Out</option>
+            <option value="Nov">Nov</option>
+            <option value="Dez">Dez</option>
+        </select>
+        <select name="ano" id="ano">
+            <option value="2023">2023</option>
+            <option value="2022">2022</option>
+            <option value="2021">2021</option>
+            <option value="2020">2020</option>
+            <option value="2019">2019</option>
+            <option value="2018">2018</option>
+            <option value="2017">2017</option>
+            <option value="2016">2016</option>
+            <option value="2015">2015</option>
+            <option value="2014">2014</option>
+            <option value="2013">2013</option>
+            <option value="2012">2012</option>
+        </select><br><br>
+        <label>Gênero</label><br>
+        <label for="Feminino">Feminino</label>
+        <input type="radio" name="genero" id="Feminino" value="feminino" checked>
+        <label for="masculino">Masculino</label>
+        <input type="radio" name="genero" id="masculino" value="masculino">
+        <label for="personalizado">Personalizado</label>
+        <input type="radio" name="genero" id="personalizado" value="personalizado"><br><br>
+        <input type="file"><br><br>
+        <input type="submit" value="Enviar">
+    </form>
+</body>
+</html>

@@ -1,0 +1,36 @@
+.container{
+    display: grid;
+    grid-template-columns: repeat(5, auto);
+    grid-template-rows: repeat(3, auto);
+    grid-gap: 15px;
+}
+.verde-claro{
+    background-color: aquamarine;
+    /* grid-column-start: 1;
+    grid-column-end: 3; */
+    /* grid-column: 1 / span 2; */
+    /* grid-row-start: 1;
+    grid-row-end: 3; */
+    /* grid-row: 1 / span 2; */
+    grid-area: 1 / 1 / 3 / 3;
+}
+.azul{
+    background-color: cornflowerblue;
+    grid-area: 1 / 3 / 1 / 6;
+}
+.rosa{
+    background-color: hotpink;
+    grid-area: 3 / 1 / 3 / 3;
+}
+.laranja-escuro{
+    background-color: orangered;
+    grid-area: 2 / 3 / 4 / 5;
+}
+.verde-forte{
+    background-color: greenyellow;
+    
+}
+.marrom{
+    background-color: burlywood;
+}
+

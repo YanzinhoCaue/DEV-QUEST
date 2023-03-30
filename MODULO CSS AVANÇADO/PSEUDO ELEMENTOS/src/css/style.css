@@ -1,0 +1,21 @@
+.first-letter::first-letter{
+    color: coral;
+}
+.first-line::first-line{
+    color: coral;
+}
+.first-line::first-letter{
+    color: blue;
+}
+li::marker{
+    color: red;
+    font-size: 23px;
+}
+h2::after{
+    content:"";
+    background: url('../images/FabioBrito_INET_1a2f759b-059c-4530-917e-c766810fd0ee.png') center center no-repeat;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+}
+
