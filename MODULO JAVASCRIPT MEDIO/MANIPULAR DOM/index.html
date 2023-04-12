@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Manipulação de DOM</title>
+</head>
+<body>
+    <h1>Post do Twitter</h1>
+    <article class="post">
+        <p><strong>Yan Caue</strong><span>@yanzinhocaue</span></p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores magni qui similique maxime nemo assumenda id vitae, dicta, sint necessitatibus illo inventore neque. Quam fuga quaerat distinctio deserunt vitae cupiditate.</p><br>
+        <div class="comentario">
+            <h3>Comentários:</h3>
+            <input type="text" name="novo-comentario" placeholder="Digite o seu comentário">
+            <button onclick="adicionarComentario()">Adicionar comentário</button><br>
+            <div id="novos-comentarios"></div>
+        </div>
+    </article>
+    <script type="text/javascript" src="./src/js/index.js"></script>
+</body>
+</html>
