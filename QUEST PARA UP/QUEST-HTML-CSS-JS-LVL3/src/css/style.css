@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700;900&display=swap');
+body{
+    font-family: 'Roboto', sans-serif;
+}
+html{
+    background-color: #e5e5e5;
+    width: 100vw;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container{
+    background: url(../images/bg-repeat.jpg) repeat;
+    width: 800px;
+    height: 402px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.duvidas{
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+}
+.duvidas .pergunta{
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 900;
+}
+.duvidas .resposta{
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: 400;
+    margin-top: 11px;
+}
+.form{
+    background-color: #ffffff;
+    width: 340px;
+    height: 378px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-right: 50px;
+    padding: 20px 20px 0px 20px;
+    border-radius: 5px;
+}
+.form .form-control{
+    border: 1px black solid;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: 700;
+    width: 298.01px;
+    opacity: 0.5;
+    padding: 8px;
+    margin: 4px;
+}
+.form .mensagem{
+    height: 100px;
+    padding-bottom: 82px;
+}
+.form p{
+    margin-right: 145px;
+    font-size: 15px;
+    font-weight: 400;
+    margin-bottom: 4px;
+}
+.form .enviar{
+    width: 298.01;
+    height: 41.13px;
+    margin-bottom: 20px;
+    background-color: #3CCC87;
+    border: none;
+    border-radius: 5px;
+    padding: 12px 127px;
+    font-size: 15px;
+    font-weight: 700;
+    color: #ffffff;
+    cursor: pointer;
+}
+.form small{
+    color: #F52E2E;
+    font-size: 8px;
+    margin-right: 220px;
+    visibility: collapse;
+}
+.form-control.error{
+    border: 1px #F52E2E solid;
+}
+.form-control.error samall{
+    visibility: visible;
+
+}
+.form-control.sucess{
+    border: 1px #00C22B solid;
+}
